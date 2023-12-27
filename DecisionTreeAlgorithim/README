@@ -1,0 +1,4 @@
+Hello, I coded most of the foundation for this program including the algorithims 
+from the book but unfortunatly could not get the math for entropy calculations 
+to check out and come out correctly and thus unable to have time to properally debug and finish the assignment.
+As of now, the entropy calculations are printed out on the terminal.

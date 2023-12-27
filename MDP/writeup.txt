@@ -1,0 +1,14 @@
+MDP in any row by column, with walls and terminal states
+
+The input file format is in the format that the 411 instructors provided.
+Both files were used in the testing process.
+
+To run the program, follow the instructions on the terminal. If unclear, you just need to provide
+either the name of the input file (if in cwd) or the path and name of the input file (if not in cwd)
+
+For Aniket: I apologize in advance for the messy data structures but I eventually got it to work 
+even though it feels like there has to have been a simpler way to manage all the data needed lol. If I could redo, 
+I would definitly try and implement a matrix or one large data structure that could hold more instead of a bunch
+of smaller ones where it got messy quickly. Anyways it should still run as expected! I rounded the values to 12 places
+in order to reasonably reach convergence, but they do converge to the same values that the output files converge to.
+Thank you! - Tyler Strach
